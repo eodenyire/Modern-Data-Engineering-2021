@@ -4,18 +4,18 @@
 
 # Topics Covered:
 
-<b>Introduction to the Command-Line Interface (CLI):</b></p>
+<b>i. Introduction to the Command-Line Interface (CLI):</b></p>
 
-- Understanding the purpose and benefits of using the CLI.
-- Differentiating between CLI and graphical user interfaces (GUIs).
-- Brief history of command-line interfaces.
+* Understanding the purpose and benefits of using the CLI.
+* Differentiating between CLI and graphical user interfaces (GUIs).
+* Brief history of command-line interfaces.
 
-Navigating the File System:</b></p>
+<b>ii. Navigating the File System:</b></p>
 
 - Using commands like ls, cd, and pwd to navigate and explore the file system.
 - Understanding the directory structure, paths, and current working directory.
-- 
-File and Directory Operations:</b></p>
+  
+<b>iii. File and Directory Operations:</b></p>
 
 Creating and deleting directories with mkdir and rmdir.</p>
 Creating, copying, moving, and deleting files with touch, cp, mv, and rm.</p>
