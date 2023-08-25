@@ -1,203 +1,205 @@
 # Modern-Data-Engineering-2021
 
-Data Engineer in 2021
-CS fundamentals
-Basic terminal usage [general recommendation]
-Data structures & algorithms [general recommendation]
-APIs [general recommendation]
-REST [general recommendation]
-Structured vs unstructured data [general recommendation]
+i. CS fundamentals</b></p>
+Basic terminal usage 
+Data structures & algorithms 
+APIs 
+REST 
+Structured vs unstructured data
 Serialisation
-Linux [general recommendation]
+Linux 
 CLI
 Vim
 Shell scripting
 Cronjobs
-How does the computer work? [general recommendation]
-How does the Internet work? [general recommendation]
-Git — Version control [general recommendation]
-Math & statistics basics [general recommendation]
+How does the computer work? 
+How does the Internet work? 
+Git — Version control 
+Math & statistics basics 
 Note: Git is used for tracking changes in source code and coordinating work among programmers. In your day to day work you will use Git server as a service like GitHub, GitLab or Bitbucket.
 
-Learn a programming language
-Python [personal recommendation]
-Java [general recommendation]
+Learn a programming language</b></p>
+Python 
+Java 
 Scala
 Go
 Note: Learn how to write clean, extensibile code. Spend some time understanding programming paradigms (functional vs. OOP) and best practices (design patterns, YAGNI, stateful vs stateless applications). Get familiar with an IDE or code editor like VSCode.
 
-Testing
+Testing</b></p>
 
-Unit testing [general recommendation]
-Integration testing [general recommendation]
-Functional testing [general recommendation]
+Unit testing 
+Integration testing 
+Functional testing 
 Database fundamentals
 
-SQL [general recommendation]
-Normalisation [general recommendation]
-ACID transactions [general recommendation]
-CAP theorem [general recommendation]
-OLTP vs OLAP [general recommendation]
-Horizontal vs vertical scaling [general recommendation]
-Dimensional modeling [general recommendation]
-Relational databases
+SQL </b></p>
+Normalisation 
+ACID transactions 
+CAP theorem 
+OLTP vs OLAP 
+Horizontal vs vertical scaling 
+Dimensional modeling 
+Relational databases</b></p>
 
-MySQL [general recommendation]
-PostgreSQL [general recommendation]
+MySQL
+PostgreSQL
 MariaDB
 Amazon Aurora
-Non-relational databases
+Non-relational databases</b></p>
 
 Document databases
-MongoDB [general recommendation]
-Elasticsearch [general recommendation]
+MongoDB 
+Elasticsearch 
 Apache CouchDB
 Azure CormosDB
 Wide column databases
-Apache Cassandra [general recommendation]
-Apache HBase [general recommendation]
-Google Cloud Bigtable [personal recommendation]
+Apache Cassandra 
+Apache HBase 
+Google Cloud Bigtable 
 Graph databases
 Neo4j
 Amazon Neptune
 Key-value stores
-Redis [personal recommendation]
+Redis 
 Memcached
-Amazon DynamoDB [general recommendation]
+Amazon DynamoDB 
 Note: Understand the difference between Document, Wide column, Graph and Key-value NoSQL databases. We recommend mastering one database from each category.
 
-Data warehouses
+Data warehouses</b></p>
 
-Snowflake [general recommendation]
+Snowflake 
 Presto
 Apache Hive
 Apache Impala
-Amazon Redshift [general recommendation]
-Google BigQuery [personal recommendation]
+Amazon Redshift 
+Google BigQuery 
 Azure Synapse
 ClickHouse
-Object storage
 
-AWS S3 [general recommendation]
+Object storage</b></p>
+
+AWS S3 
 Azure Blob Storage
 Google Cloud Storage
 Apache Ozone
-Cluster computing fundamentals
 
-Apache Hadoop [general recommendation]
-HDFS [general recommendation]
-MapReduce [general recommendation]
+Cluster computing fundamentals</b></p>
+
+Apache Hadoop 
+HDFS 
+MapReduce 
 Lambda & Kappa architectures
-Managed Hadoop [general recommendation]
+Managed Hadoop 
 Amazon EMR
 Google Dataproc
 Azure Data Lake
 Note: Most modern data processing frameworks are based on Apache Hadoop and MapReduce to some extent. Understanding these concepts can help you learn modern data processing frameworks much quicker.
 
-Data processing
+Data processing</b></p>
 Batch
-Apache Pig [general recommendation]
+Apache Pig 
 Apache Arrow
-data build tool [personal recommendation]
+data build tool 
 Hybrid
-Apache Spark [general recommendation]
-Apache Beam [personal recommendation]
-Apache Flink [general recommendation]
+Apache Spark 
+Apache Beam 
+Apache Flin
 Apache NiFi
 Streaming
-Apache Kafka [personal recommendation]
-Apache Storm [general recommendation]
+Apache Kafka 
+Apache Storm 
 Apache Samza
 Amazon Kinesis
 Note: Hybrid frameworks are able to process both batch and streaming data. Batch data processing is often done by analytical data warehouse applications. See Data warehouses section for more.
 
-Messaging
+Messaging</b></p>
 
-RabbitMQ [general recommendation]
+RabbitMQ 
 Apache ActiveMQ
 Amazon SNS & SQS
 Google PubSub
 Azure Service Bus
-Workflow scheduling
 
-Apache Airflow [personal recommendation]
+Workflow scheduling</b></p>
+
+Apache Airflow 
 Google Composer
 Apache Oozie
 Luigi
 Note: Cloud Composer is a managed Apache Airflow service on Google Cloud Platform.
 
-Monitoring and observability for data pipelines
+Monitoring and observability for data pipelines</b></p>
 
-Prometheus [general recommendation]
-Datadog [general recommendation]
-Sentry [general recommendation]
+Prometheus
+Datadog 
+Sentry 
 Monte Carlo
 Datafold
 Soda Data
 StatsD
 Networking
 
-Protocols [general recommendation]
+Protocols</b></p>
 HTTP / HTTPS
 TCP
 SSH
 IP
 DNS
-Firewalls [general recommendation]
-VPN [general recommendation]
-VPC [general recommendation]
+Firewalls 
+VPN 
+VPC 
 Infrastructure as Code
 
-Containers
-Docker [personal recommendation]
+Containers</b></p>
+Docker 
 LXC
 Container orchestration
-Kubernetes [general recommendation]
+Kubernetes 
 Docker Swarm
 Apache Mesos
-Google Kubernetes Engine (GKE) [general recommendation]
+Google Kubernetes Engine (GKE)
 Infrastructure provisioning
-Terraform [personal recommendation]
+Terraform
 Pulumi
-AWS CDK [general recommendation]
+AWS CDK 
 CI/CD
 
-GitHub Actions [general recommendation]
-Jenkins [general recommendation]
+GitHub Actions </b></p>
+Jenkins 
 Identity and access management
 
-Active Directory [general recommendation]
+Active Directory 
 Azure Active Directory
 Data security & privacy
 
-Legal compliance [general recommendation]
-Encryption [general recommendation]
-Key management [general recommendation]
+Legal compliance </b></p>
+Encryption 
+Key management 
 Data governance & integrity
 
 Note: Data engineers often work closely with Data scientists, Data analysts and Machine Learning engineers. It’s good to have a basic understanding of the tools they use.
 
-Visualise data
+Visualise data</b></p>
 
-Tableau [general recommendation]
-Looker [personal recommendation]
-Grafana [general recommendation]
-Jupyter Notebook [general recommendation]
+Tableau 
+Looker
+Grafana 
+Jupyter Notebook 
 Microsoft Power BI
 Machine Learning fundamentals
 
-Terminology [general recommendation]
+Terminology</b></p>
 Supervised vs unsupervised learning
 Classification vs regression
 Evaluation metrics
-scikit-learn [general recommendation]
-Tensorflow [personal recommendation]
-Keras [personal recommendation]
-PyTorch [general recommendation]
+scikit-learn 
+Tensorflow 
+Keras 
+PyTorch 
 Machine Learning Ops
 
-Tensorflow Extended (TFX) [general recommendation]
-Kubeflow [personal recommendation]
+Tensorflow Extended (TFX) 
+Kubeflow 
 MLflow
 Amazon SageMaker
 Google Cloud AI Platform
