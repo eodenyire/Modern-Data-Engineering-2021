@@ -42,7 +42,7 @@ Provide students with text files and ask them to perform specific tasks, such as
 
 Students experiment with creating and editing text files using a basic text editor like Nano.
 
-<b>Assessment:</b></p>
+<b><p>Assessment:</b></p>
 
 <b>i. CLI Task Challenge:</b></p>
 
@@ -52,13 +52,13 @@ Students experiment with creating and editing text files using a basic text edit
 
 * Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
 
-<b>Additional Tips:</b></p>
+<p><b>Additional Tips:</b></p>
 
 * <p>Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.</p>
 
 * <p>Practice Drills: Allow students to practice repeatedly, as this helps solidify their understanding of commands and operations.</p>
 
-*<p>Real-World Context: Connect the concepts to real-world scenarios. Explain how terminal skills are applied in data engineering tasks.</p>
+* <p>Real-World Context: Connect the concepts to real-world scenarios. Explain how terminal skills are applied in data engineering tasks.</p>
 
 * <p>Feedback and Q&A: Provide ample opportunities for students to ask questions and seek clarification on commands and concepts.</p>
 
