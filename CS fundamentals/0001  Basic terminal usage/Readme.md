@@ -54,14 +54,14 @@ Students experiment with creating and editing text files using a basic text edit
 
 # Additional Tips:
 
-* Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.
+* <p>Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.</p>
 
-* Practice Drills: Allow students to practice repeatedly, as this helps solidify their understanding of commands and operations.
+* <p>Practice Drills: Allow students to practice repeatedly, as this helps solidify their understanding of commands and operations.</p>
 
-* Real-World Context: Connect the concepts to real-world scenarios. Explain how terminal skills are applied in data engineering tasks.
+*<p>Real-World Context: Connect the concepts to real-world scenarios. Explain how terminal skills are applied in data engineering tasks.</p>
 
-* Feedback and Q&A: Provide ample opportunities for students to ask questions and seek clarification on commands and concepts.
+* <p>Feedback and Q&A: Provide ample opportunities for students to ask questions and seek clarification on commands and concepts.</p>
 
-* Resource Sharing: Share recommended online resources and tutorials for students to continue practicing and learning outside of class.
+* <p>Resource Sharing: Share recommended online resources and tutorials for students to continue practicing and learning outside of class.</p>
 
-This revised lesson plan should accurately address the focus on "Basic Terminal Usage" as a part of the "Computer Science Fundamentals" category.
+This revised lesson plan should accurately address the focus on "Basic Terminal Usage" as a part of the "Computer Science Fundamentals" category.</p>
