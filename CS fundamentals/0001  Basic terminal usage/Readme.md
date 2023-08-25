@@ -42,7 +42,7 @@ Provide students with text files and ask them to perform specific tasks, such as
 
 Students experiment with creating and editing text files using a basic text editor like Nano.
 
-# Assessment:</b></p>
+# Assessment:
 
 <b>i. CLI Task Challenge:</b></p>
 
@@ -52,7 +52,7 @@ Students experiment with creating and editing text files using a basic text edit
 
 * Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
 
-# Additional Tips:</b></p>
+# Additional Tips:
 
 * Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.
 
