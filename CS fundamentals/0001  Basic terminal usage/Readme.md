@@ -17,40 +17,45 @@
   
 <b>iii. File and Directory Operations:</b></p>
 
-Creating and deleting directories with mkdir and rmdir.</p>
-Creating, copying, moving, and deleting files with touch, cp, mv, and rm.</p>
+- Creating and deleting directories with mkdir and rmdir.</p>
+- Creating, copying, moving, and deleting files with touch, cp, mv, and rm.</p>
 
-Text Manipulation:</b></p>
+<b>iv. Text Manipulation:</b></p>
 
-Viewing file content using cat and less.
-Searching within files using grep.
-Redirecting input and output with > and >>.
-Text Editors:</b></p>
+- Viewing file content using cat and less.
+- Searching within files using grep.
+- Redirecting input and output with > and >>.
+  
+<b>v. Text Editors:</b></p>
 
-Introduction to basic text editors like Nano or Vim.
-Editing and saving files using a text editor.
-Activities and Exercises:
+- Introduction to basic text editors like Nano or Vim.
+- Editing and saving files using a text editor.
 
-Navigating and Manipulating Files:
+# Activities and Exercises:
+
+<b>i. Navigating and Manipulating Files:</b></p>
 
 Students practice navigating through directories, creating files and directories, and performing basic operations.
-Text Manipulation Challenges:
+
+<b>ii. Text Manipulation Challenges:
 
 Provide students with text files and ask them to perform specific tasks, such as searching for specific text using grep.
-Text Editor Interaction:</b></p>
+
+<b>iii. Text Editor Interaction:</b></p>
 
 Students experiment with creating and editing text files using a basic text editor like Nano.
-Assessment:</b></p>
 
-CLI Task Challenge:</b></p>
+# Assessment:</b></p>
 
-Assign a set of tasks that require students to use various CLI commands to navigate, create, and manipulate files and directories.
+<b>i. CLI Task Challenge:</b></p>
 
-Text Editor Challenge:</b></p>
+* Assign a set of tasks that require students to use various CLI commands to navigate, create, and manipulate files and directories.
 
-Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
+<b>ii. Text Editor Challenge:</b></p>
 
-Additional Tips:</b></p>
+* Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
+
+<b> Additional Tips:</b></p>
 
 Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.
 
