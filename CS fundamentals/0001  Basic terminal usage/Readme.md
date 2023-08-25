@@ -4,25 +4,28 @@
 
 # Topics Covered:
 
-<b>Introduction to the Command-Line Interface (CLI):</></p>
+<b>Introduction to the Command-Line Interface (CLI):</b></p>
 
-Understanding the purpose and benefits of using the CLI.
-Differentiating between CLI and graphical user interfaces (GUIs).
-Brief history of command-line interfaces.
-Navigating the File System:
+- Understanding the purpose and benefits of using the CLI.
+- Differentiating between CLI and graphical user interfaces (GUIs).
+- Brief history of command-line interfaces.
 
-Using commands like ls, cd, and pwd to navigate and explore the file system.
-Understanding the directory structure, paths, and current working directory.
-File and Directory Operations:
+Navigating the File System:</b></p>
 
-Creating and deleting directories with mkdir and rmdir.
-Creating, copying, moving, and deleting files with touch, cp, mv, and rm.
-Text Manipulation:
+- Using commands like ls, cd, and pwd to navigate and explore the file system.
+- Understanding the directory structure, paths, and current working directory.
+- 
+File and Directory Operations:</b></p>
+
+Creating and deleting directories with mkdir and rmdir.</p>
+Creating, copying, moving, and deleting files with touch, cp, mv, and rm.</p>
+
+Text Manipulation:</b></p>
 
 Viewing file content using cat and less.
 Searching within files using grep.
 Redirecting input and output with > and >>.
-Text Editors:
+Text Editors:</b></p>
 
 Introduction to basic text editors like Nano or Vim.
 Editing and saving files using a text editor.
@@ -34,18 +37,20 @@ Students practice navigating through directories, creating files and directories
 Text Manipulation Challenges:
 
 Provide students with text files and ask them to perform specific tasks, such as searching for specific text using grep.
-Text Editor Interaction:
+Text Editor Interaction:</b></p>
 
 Students experiment with creating and editing text files using a basic text editor like Nano.
-Assessment:
+Assessment:</b></p>
 
-CLI Task Challenge:
+CLI Task Challenge:</b></p>
 
 Assign a set of tasks that require students to use various CLI commands to navigate, create, and manipulate files and directories.
-Text Editor Challenge:
+
+Text Editor Challenge:</b></p>
 
 Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
-Additional Tips:
+
+Additional Tips:</b></p>
 
 Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.
 
