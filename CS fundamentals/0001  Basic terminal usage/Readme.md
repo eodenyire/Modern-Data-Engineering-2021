@@ -28,7 +28,7 @@
 - Introduction to basic text editors like Nano or Vim.
 - Editing and saving files using a text editor.
 
-# Activities and Exercises:
+<b>Activities and Exercises:</b></p>
 
 <b>i. Navigating and Manipulating Files:</b></p>
 
@@ -42,7 +42,7 @@ Provide students with text files and ask them to perform specific tasks, such as
 
 Students experiment with creating and editing text files using a basic text editor like Nano.
 
-# Assessment:
+<b>Assessment:</b></p>
 
 <b>i. CLI Task Challenge:</b></p>
 
@@ -52,7 +52,7 @@ Students experiment with creating and editing text files using a basic text edit
 
 * Ask students to create and edit a text file using a text editor, showcasing their proficiency in basic text editing.
 
-# Additional Tips:
+<b>Additional Tips:</b></p>
 
 * <p>Interactive Demos: Incorporate live demonstrations to illustrate the execution of commands and their outcomes.</p>
 
