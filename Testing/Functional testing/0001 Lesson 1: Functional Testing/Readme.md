@@ -1,4 +1,4 @@
-Lesson 3: Functional Testing
+# Lesson 3: Functional Testing
 
 Objective: Introduce students to functional testing, focusing on testing the application's functionality from a user's perspective.
 
